@@ -4,7 +4,7 @@
 - MVVC Klasör yapısı
 
   # TODO APP UYGULAMASI GÖRSELLERİ
-<img src="https://hizliresim.com/ppv0q37" width="46%">
+<img src="https://hizliresim.com/ppv0q37.png" width="46%">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
