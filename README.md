@@ -3,13 +3,11 @@
 - HİVE DATABASE
 - MVVC Klasör yapısı
 
-  TODO APP UYGULAMASI GÖRSELLERİ
-
   <div align="left">
     <img src="https://i.hizliresim.com/ppv0q37.png" width="46%">
     <img src="https://i.hizliresim.com/p4c8eg5.png" width="46%">
   </div>
-
+<br/><br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
