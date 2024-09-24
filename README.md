@@ -2,9 +2,10 @@
 - RİVERPOD PROVİDER
 - HİVE DATABASE
 - MVVC Klasör yapısı
-
+<br/><br/>
   <div align="left">
     <img src="https://i.hizliresim.com/ppv0q37.png" width="46%">
+    <img src="https://i.hizliresim.com/p4c8eg5.png" width="46%">
     <img src="https://i.hizliresim.com/p4c8eg5.png" width="46%">
   </div>
 <br/><br/>
